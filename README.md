@@ -18,7 +18,7 @@
             } else if (jugada == 3) {
                 resultado = "Tijera ✂️"
             } else {
-                resultado = "Elegiste otro botón, así no se puede jugar 🥹 ahora te tengo que matar 🤪"
+                resultado = "Elegiste otro botón, así no se puede jugar 🥹 ahora te tengo que matar  🤪"
             }
             return resultado
         }
